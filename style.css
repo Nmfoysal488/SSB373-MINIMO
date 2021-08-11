@@ -1,0 +1,232 @@
+/* font-family: 'Playfair Display', serif; */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+width: 90%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+height: 50px;
+
+align-items: center;
+}
+.logo{
+
+width: 20%;
+}
+.logo img{
+
+}
+nav{
+
+width: 50%;
+}
+nav ul{
+
+list-style: none;
+
+display: flex;
+
+justify-content: space-between;
+}
+nav ul li{
+
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+color: #626262;
+    
+font-size: 22px;
+font-family: 'Playfair Display', serif; ;
+    
+text-transform: capitalize;
+}
+
+.banner{
+
+width: 90%;
+
+margin: auto;
+}
+.banner img{
+    
+width: 100%;
+}
+.photodiary-section{
+
+width: 80%;
+
+margin: auto;
+
+padding: 100px 0px;
+
+}
+.photodiary-section h5 {
+
+color: #.photodiary-section h5{;};
+
+color: #b4ad9e ;
+
+font-size: 13px;
+
+text-transform: uppercase;
+
+margin-bottom: 30px;
+}
+.photodiary-section h1{
+    font-family: 'Playfair Display', serif;
+color: #626262;
+
+font-size: 35px;
+}
+.photodiary-section p{
+
+font-family: 'Playfair Display', serif;
+
+color: #626262;
+
+font-size: 16px;
+
+margin: 27px 0px;
+}
+.lifestyle{
+
+display: flex;
+
+justify-content: space-between;
+
+flex-wrap: wrap;
+}
+.lifestyle-left{
+
+width: 48%;
+
+margin-top: 50px;
+}
+.lifestyle-left img{
+
+width: 100%;
+}
+.lifestyle-left h5{
+
+margin: 20px 0px;
+}
+.lifestyle-left h1{
+
+font-size: 30px;
+
+text-transform: capitalize;
+}
+.lifestyle-left p{
+    
+}
+.signup{
+
+background: #f0f0f0;
+
+padding: 100px 0;
+}
+.signup-content{
+
+width: 37%;
+
+margin: auto;
+
+text-align: center;
+
+position: relative;
+}
+.signup-content h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #333333;
+    margin-bottom: 100px;
+}
+.signup-content input{
+    
+background: transparent;
+    
+border: none;
+    
+border-bottom: 1px solid;
+    
+width: 100%;
+padding: 10px 0;
+}
+.signup-content input::placeholder{
+    font-size: 20px;
+    color: #333333;
+    font-family: 'Playfair Display', serif ;
+    text-transform: capitalize;
+}
+.signup-content input:focus{
+    outline: none;
+}
+.icon{
+
+position: absolute;
+
+bottom: 0;
+
+right: 0;
+}
+.icon img{
+    
+}
+.loadmore{
+
+height: 200px;
+
+text-align: center;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+}
+.loadmore button{
+    
+background: transparent;
+font-family: 'Playfair Display', serif;
+border: none;
+    
+border: 1px solid;
+    
+padding: 25px;
+    
+font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
